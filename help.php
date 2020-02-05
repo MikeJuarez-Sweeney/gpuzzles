@@ -52,7 +52,7 @@
 <p>Each of the icons on the home page represents a puzzle. Click on one to go to that puzzle.</p>
 <p><img src="Images/help/icons.jpg" alt="icons" width="600" height="100"><p>
 <p>While logged in as an Admin, users will be able to add additional puzzles and topics. Admin users will also be able to modify and delete existing puzzles. All of the puzzles are being stored on MYSQL database.</p>
-<p>The number of puzzles home page can be changed by the admin.</p>
+<p>The number of puzzles home page can be changed by the administrator.</p>
 <p>This site was adapted from a quiz site made by students in the 2019 school year.</p>
 
 </html>

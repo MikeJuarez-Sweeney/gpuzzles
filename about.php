@@ -53,7 +53,7 @@
 <body>
     <!--this is the tool bar-->
 
-    <h2 id="title">About Us</h2>
+    <h2 id="title">About the Team</h2>
     <h4 class="directions">This GPuzzles project was refactored from another student project in the 2019-2020 school year by an ICS 499 student. <br> </h4>
     <h4 class="directions">Click on each image to learn more about us.</h4>
 </body>
@@ -82,9 +82,9 @@
 
 var s1 = new Student(
       "https://www.linkedin.com/in/michael-juarez-sweeney-77262445/",
-      "Mike Juarez-Sweeney",
+      "Michael Juarez-Sweeney",
       "Images/about_images/MJS.jpg",
-      "Mike is currently a senior at Metro State University. He works full time as a TTS Intern at Target in Brooklyn Park. He lives in Saint Paul with his girlfriend and two kids."
+      "Michael is currently a senior at Metro State University. He works full time as a TTS Intern at Target in Brooklyn Park. He lives in Saint Paul with his girlfriend and two kids."
       );
 
 
